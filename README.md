@@ -1,3 +1,5 @@
+![EMULVA360X](https://github.com/luismoli1811-star/EMULVA360X/blob/main/%21%5BEMULVA360X%5D.jpg)
+
 # EMULVA360X
 
 EMULVA360X - Emulador de Xbox 360 para Android, desarrollado en C++.
@@ -29,5 +31,4 @@ Todos los módulos desarrollados desde cero para esta versión:
 - ✅ Estados rápidos y partidas guardadas
 - ✅ Modos de rendimiento: Máximo / Equilibrado / Ahorro de batería
 - ✅ Interfaz en español
-- ![EMULVA360X Logo](https://github.com/luismoli1811-star/EMULVA360X/blob/main/%21%5BEMULVA360X%5D.jpg)
-- 
+
