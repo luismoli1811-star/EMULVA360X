@@ -29,4 +29,5 @@ Todos los módulos desarrollados desde cero para esta versión:
 - ✅ Estados rápidos y partidas guardadas
 - ✅ Modos de rendimiento: Máximo / Equilibrado / Ahorro de batería
 - ✅ Interfaz en español
+![EMULVA360X](https://i.imgur.com/REEMPLAZA_CON_TU_ENLACE.png)
 
