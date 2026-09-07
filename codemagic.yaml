@@ -1,0 +1,24 @@
+workflows:
+  android-apk:
+    name: Build EMULVA360X APK
+    max_build_duration: 60
+    instance_type: standard
+    environment:
+      ndk: r25b
+      node: latest
+    triggering:
+      events:
+        - push
+      branch_patterns:
+        - pattern: main
+    scripts:
+      - name: Grant execute permission for gradlew
+        script: chmod +x ./gradlew
+      - name: Build Android APK
+        script: ./gradlew assembleRelease
+    artifacts:
+      - app/build/outputs/apk/release/*.apk
+    publishing:
+      email:
+        recipients:
+          -luismoli1811@gmail.com
